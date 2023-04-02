@@ -1,2 +1,3 @@
-# coffie-shop-bot
-# coffie-shop-bot
+# lottery-telegram-bot
+
+Описание поднятие рабочего стенда еще не готово
